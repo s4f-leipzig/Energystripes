@@ -26,5 +26,8 @@ numpy
 matplotlib  
 pandas    
 
+## Acknowledgments
+This figure is inspired by [Chris Skidmore](https://twitter.com/CSkidmoreUK/status/1270589139314974721?s=19)
+
 ## Authors
 Scientists for Future Leipzig
