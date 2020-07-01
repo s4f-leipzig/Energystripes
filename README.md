@@ -4,6 +4,7 @@ Energystripes show the share of energy production in Germany from renewable sour
 Days with more than 50% of energy produced from renewable sources are marked in green while days on which more than 50% of the produced energy is derived from conventional sources are colored in black.
 
 ## Example
+Daily energystripes for Germany 01 Jan 2011 - 30 Jun 2020
 ![Daily energystripes for Germany 01 Jan 2011 - 30 Jun 2020](https://github.com/s4f-leipzig/Energystripes/blob/master/Energystripes_2011-2020.jpg)
 
 ## Data and Download
