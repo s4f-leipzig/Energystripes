@@ -71,4 +71,4 @@ for idx, file in enumerate(files):
     t = plt.text(320,1,s=year, fontsize=30, alpha=1, weight = 'bold')
     t.set_bbox(dict(facecolor='w', alpha=0.5, edgecolor='w'))
 
-plt.savefig('Energystripes_2011-2020.jpg', bbox_inches = 'tight', pad_inches = 0, dpi=300)
+plt.savefig('Energystripes_2011-2020.jpg', bbox_inches = 'tight', pad_inches = 0, dpi=150)
