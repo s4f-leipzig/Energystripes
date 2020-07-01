@@ -27,7 +27,7 @@ matplotlib
 pandas    
 
 ## Acknowledgments
-This figure is inspired by [Chris Skidmore](https://twitter.com/CSkidmoreUK/status/1270589139314974721?s=19)
+This figure is inspired by an article of [The Guardian](https://www.theguardian.com/business/2020/apr/28/britain-breaks-record-for-coal-free-power-generation)
 
 ## Authors
 Scientists for Future Leipzig
